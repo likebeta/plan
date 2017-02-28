@@ -35,3 +35,7 @@
   - [x] beego开发文档看完
   - [ ] 看完[Go Web 编程](https://www.gitbook.com/read/book/wizardforcel/build-web-application-with-golang)
   - [x] 打篮球或者去健身房一次
++ 2017-02-27
+  - [ ] 看完[Go Web 编程](https://www.gitbook.com/read/book/wizardforcel/build-web-application-with-golang)
+  - [ ] 打篮球或者去健身房一次
+  - [ ] gdss打好框架
