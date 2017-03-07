@@ -39,3 +39,7 @@
   - [x] 看完[Go Web 编程](https://www.gitbook.com/read/book/wizardforcel/build-web-application-with-golang)
   - [x] 打篮球或者去健身房一次
   - [x] gdss打好框架
++ 2017-03-06
+  - [ ] 现代操作系统（第3版）看第4章和第5章
+  - [ ] 打篮球或者去健身房一次
+  - [ ] 提供基本的gdss api
