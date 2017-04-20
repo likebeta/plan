@@ -7,7 +7,7 @@
   - [x] 小王子
   - [ ] 活着
 
-+ [] 读 [现代操作系统（第3版）](https://book.douban.com/subject/3852290/)
++ [x] 读 [现代操作系统（第3版）](https://book.douban.com/subject/3852290/)
 
 + [ ] 认真读一本算法书
 
