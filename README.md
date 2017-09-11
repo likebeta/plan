@@ -132,4 +132,4 @@
   - [ ] Effective C++看完40节
 + 2017-08-28
   - [ ] 运动一次
-  - [ ] Effective C++看完40节
+  - [x] Effective C++看完40节
