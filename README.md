@@ -173,5 +173,5 @@
   - [x] 运动一次
   - [ ] 看完cocos creator视频教程
 + 2017-12-04
-  - [ ] 运动一次
-  - [ ] 看完cocos creator视频教程
+  - [x] 运动一次
+  - [x] 看完cocos creator视频教程
